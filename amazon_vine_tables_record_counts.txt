@@ -1,0 +1,12 @@
+select count(*) from products_table;
+906592	products
+
+select count(*) from vine_table;
+9002021	vine
+
+select count(*) from review_id_table;
+9002021	review_id
+
+select count(*) from customers_table;
+5197905	customers
+
